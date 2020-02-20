@@ -64,3 +64,4 @@ par(mfrow=c(1,2))
 hist(conjunto$Diametro, main = "sin modificar", xlab = "diametro", col = "blue")
 hist(conjunto$Diametro, breaks = Intervalo, main = "datos intervalos", col = "red")
 par(mfrow=c(1,1))
+
